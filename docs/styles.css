@@ -9,7 +9,7 @@ body {
 }
 h1 {
 	font-weight:300;
-	line-height: 1.15em;
+	line-height: 0.0em;
 	color: #f0ece2;
 }
 h2 {
@@ -34,7 +34,11 @@ h2, h3 {
 	margin: 16px 0px 4px 0px;
 }
 .paper-title {
-	padding: 16px 0px 16px 0px;
+	padding: 16px 0px 0px 0px;
+}
+.language-selector {
+	text-align: center;
+	padding: 0px 0px 20px 0px;
 }
 section {
 	margin: 32px 0px 32px 0px;
