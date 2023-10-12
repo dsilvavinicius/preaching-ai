@@ -47,7 +47,8 @@ h2, h3 {
 .language-selector {
 	text-align: center;
 	color: #f0ece2;
-	padding: 0px 0px 20px 0px;
+	font-size: 14px;
+	padding: 0px 0px 40px 0px;
 }
 section {
 	margin: 32px 10px 32px 10px;
