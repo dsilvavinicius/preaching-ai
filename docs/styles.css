@@ -4,9 +4,17 @@ body {
 	font-size: 17px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 480px;
+	max-width: 900px;
+    width: 100%;
 	background-color: #121212;
 }
+
+@media (max-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+}
+
 h1 {
 	font-weight:300;
 	line-height: 0.0em;
