@@ -16,11 +16,11 @@ h2 {
 	font-size: 1.75em;
 }
 a:link,a:visited {
-	color: #1367a7;
+	color: #0088ff;
 	text-decoration: none;
 }
 a:hover {
-	color: #208799;
+	color: #0065b3;
 }
 h1, h2, h3 {
 	text-align: center;
@@ -37,7 +37,7 @@ h2, h3 {
 	padding: 16px 0px 0px 0px;
 }
 .language-selector {
-	font-size: 16px;
+	font-size: 18px;
 	text-align: center;
 	padding: 0px 0px 20px 0px;
 }
