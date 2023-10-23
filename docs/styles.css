@@ -46,8 +46,8 @@ h2, h3 {
 	text-align: center;
 }
 .logo {
-    height: 400px; /* makes the logo the same height as the text line */
-    width: auto; /* keeps the original aspect ratio of the logo */
+    width: 350px; /* makes the logo the same height as the text line */
+    height: auto; /* keeps the original aspect ratio of the logo */
 	margin-bottom: -40px;
 }
 .language-selector {
