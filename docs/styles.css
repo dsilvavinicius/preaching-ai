@@ -43,6 +43,12 @@ h2, h3 {
 }
 .paper-title {
 	padding: 16px 0px 0px 0px;
+	text-align: center;
+}
+.logo {
+    height: 400px; /* makes the logo the same height as the text line */
+    width: auto; /* keeps the original aspect ratio of the logo */
+	margin-bottom: -40px;
 }
 .language-selector {
 	text-align: center;
